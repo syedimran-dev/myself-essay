@@ -42,3 +42,9 @@ I am proud of my achievements and remain committed to continuous learning and gr
 Over the years, I have developed over 100 projects in Python, covering a wide range of applications including data science, game development, web applications, and more. 
 Each project has been a learning experience, allowing me to refine my skills and explore the vast possibilities that Python offers. 
 From creating interactive games to developing sophisticated data analysis tools, my journey with Python has been both diverse and enriching.
+
+
+### My Laravel journey
+
+In addition to my work with Python, I have also created multiple websites using Laravel. These projects range from simple personal blogs to complex business websites, each tailored to meet the specific needs of clients. 
+My experience with Laravel has enabled me to build robust, scalable, and efficient web applications that deliver high performance and great user experiences.
