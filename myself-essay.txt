@@ -48,3 +48,11 @@ From creating interactive games to developing sophisticated data analysis tools,
 
 In addition to my work with Python, I have also created multiple websites using Laravel. These projects range from simple personal blogs to complex business websites, each tailored to meet the specific needs of clients. 
 My experience with Laravel has enabled me to build robust, scalable, and efficient web applications that deliver high performance and great user experiences.
+
+
+### Work Experience in Software Houses
+
+My professional journey has also been enriched by my experiences working in various software houses. I have had the opportunity to work at Bird View Logic, Optimum Tech, and Eznipe. 
+Each of these experiences has contributed to my growth as a developer. At Bird View Logic, I worked on several high-impact projects, learning to balance client needs with technical feasibility.
+My time at Optimum Tech was marked by collaborative projects that required innovative solutions and team synergy. 
+At Eznipe, I further honed my skills in both Laravel and Python, taking on challenging projects that pushed the boundaries of my capabilities.
