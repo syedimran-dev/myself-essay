@@ -35,3 +35,10 @@ I am particularly interested in exploring the latest trends and advancements in 
 
 In conclusion, my journey as a Laravel and Python developer has been a testament to the power of perseverance and self-motivation. Despite the challenges posed by my educational background, I have managed to carve out a successful path in the tech industry. 
 I am proud of my achievements and remain committed to continuous learning and growth, always striving to be the best developer I can be.
+
+
+### My Python journey
+
+Over the years, I have developed over 100 projects in Python, covering a wide range of applications including data science, game development, web applications, and more. 
+Each project has been a learning experience, allowing me to refine my skills and explore the vast possibilities that Python offers. 
+From creating interactive games to developing sophisticated data analysis tools, my journey with Python has been both diverse and enriching.
