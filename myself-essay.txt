@@ -23,3 +23,9 @@ It also provided valuable insights into real-world development challenges and so
 The journey was not without its hurdles. 
 The lack of a formal degree often posed a challenge in the job market, where academic qualifications are highly valued. However, I leveraged my portfolio, which demonstrated my practical skills and experience, to overcome this barrier. 
 I believe that hands-on experience and a strong work ethic are just as important, if not more so, than formal education.
+
+
+### Looking Ahead
+
+As I continue to grow as a developer, I am constantly seeking new opportunities to expand my knowledge and skill set. 
+I am particularly interested in exploring the latest trends and advancements in web development, artificial intelligence, and machine learning. My goal is to become a well-rounded developer who can contribute meaningfully to innovative projects and solutions.
