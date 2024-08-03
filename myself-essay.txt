@@ -1,6 +1,6 @@
 ### Introduction
 
-My name is Imran, and I am a dedicated Laravel and Python developer.
+My name is Muhammad Imran, and I am a dedicated Laravel and Python developer.
 My journey into the world of programming and development has been both challenging and rewarding, marked by a passion for technology and a commitment to continuous learning.
 
 
