@@ -9,3 +9,10 @@ My journey into the world of programming and development has been both challengi
 From a young age, I was fascinated by computers and how they work. This curiosity led me to explore various aspects of technology and eventually sparked my interest in programming. 
 Despite my enthusiasm and dedication, my formal educational journey was not as smooth as I had hoped. I completed my intermediate studies but was unable to pursue a bachelor's degree due to low marks. 
 This setback, however, did not deter me from my goals. Instead, it fueled my determination to prove that academic scores do not define one's potential or capability.
+
+
+### Professional Experience
+
+My dedication to learning paid off as I started working on various projects, both independently and as part of a team. 
+One of my significant accomplishments is the development of the Edenfort real estate website. This project allowed me to apply my skills in Laravel and showcased my ability to create functional and user-friendly web applications. 
+It also provided valuable insights into real-world development challenges and solutions.
