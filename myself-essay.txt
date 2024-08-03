@@ -2,3 +2,10 @@
 
 My name is Imran, and I am a dedicated Laravel and Python developer.
 My journey into the world of programming and development has been both challenging and rewarding, marked by a passion for technology and a commitment to continuous learning.
+
+
+### Early Life and Education
+
+From a young age, I was fascinated by computers and how they work. This curiosity led me to explore various aspects of technology and eventually sparked my interest in programming. 
+Despite my enthusiasm and dedication, my formal educational journey was not as smooth as I had hoped. I completed my intermediate studies but was unable to pursue a bachelor's degree due to low marks. 
+This setback, however, did not deter me from my goals. Instead, it fueled my determination to prove that academic scores do not define one's potential or capability.
